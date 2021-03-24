@@ -10,7 +10,7 @@ cont_tempo = 0
 while True:
     f = g * ((objeto1 * objeto2)/d**2)
     if d <= 0:
-        break
+        breakhsthgtjyhjsyjsk
     else:
         d = d - (tempo*f)
     cont_tempo += 1
@@ -20,3 +20,11 @@ corr_tempo = cont_tempo*10**3 #correção da temporal # o último número é igu
 
 print(f'Tempo total até objetos colidirem {corr_tempo} segundos, ou {(corr_tempo)/60} minutos, ou {(corr_tempo)/60/60} horas,\n ou {(corr_tempo)/60/60/24} dias, ou {(corr_tempo)/60/60/24/365} anos, ou {(corr_tempo)/60/60/24/365/100} séculos, ou {(corr_tempo)/60/60/24/365/1000} milênios')
 print(f'Velocidade {d/corr_tempo} m/s, ou {d/corr_tempo*3.6} km/h')
+
+
+
+
+
+
+
+nfdvifuyvfffffffffffffffffffffffghfgwuj
