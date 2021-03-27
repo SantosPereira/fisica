@@ -1,5 +1,5 @@
 def força_gravitacional():
-    g = 6.674184 * 10**-11 #constante gravitacional
+    g = 6.674184 * 10 ** -11 #constante gravitacional
     d = float(input('Distância entre os corpos: ')) #metros #distancia entre os corpos
 
     corpo1 = int(input('Massa do corpo 1: ')) #quilograma #massa
