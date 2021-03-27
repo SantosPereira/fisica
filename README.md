@@ -1,2 +1,3 @@
-# fisica
-Simulações físicas.
+# Física
+
+Simulações computacionais de fenômenos físicos.
